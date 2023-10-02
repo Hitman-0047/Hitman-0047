@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hitman-0047
-- 👀 I’m interested in python javascript 
+- 👋 Hi, I’m @Deepak
+- 👀 I’m interested in python javascript Data Science
 - 🌱 I’m currently learning python data analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me telegram https://t.me/night_king_47
