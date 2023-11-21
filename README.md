@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Deepak
-- 👀 I’m interested in python javascript Data Science
+- 👀 I’m interested in python Data Science
 - 🌱 I’m currently learning python data analysis
+- 🤖 Web Scrapping 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me telegram https://t.me/night_king_47
 
